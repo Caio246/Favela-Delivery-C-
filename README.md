@@ -13,7 +13,7 @@ O objetivo é facilitar a comercialização de produtos e serviços dentro das c
 - Back-end:   <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> com as funções CRUD de interface com banco de dados <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> e Deploy no  <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">.
 
 ## PRINTS
-![Home-500px](https://user-images.githubusercontent.com/83608987/167743558-9eeae631-0517-448a-a634-cc2869b7c885.JPG)
-![Cadastro-500px](https://user-images.githubusercontent.com/83608987/167743569-ed40fe58-bcf4-4977-bc82-326c8c2b9429.JPG)
-![Contato-500px](https://user-images.githubusercontent.com/83608987/167743580-28525e94-c134-44a6-b4f2-c022870cece7.JPG)
-![Login-500px](https://user-images.githubusercontent.com/83608987/167743590-aa675f14-f7b3-4f26-9daf-9f2fc0dfcc09.JPG)
+![Home500](https://user-images.githubusercontent.com/83608987/169150964-e94ea215-6164-495c-afbd-b1e424eae153.JPG)
+![QuemSomos500](https://user-images.githubusercontent.com/83608987/169150972-de9689db-0150-455f-a5a7-e51c1e4d371a.JPG)
+![Cadastro500](https://user-images.githubusercontent.com/83608987/169150984-838ecb39-41e6-4d21-b43d-0c076f3a6731.JPG)
+![Pedidos500](https://user-images.githubusercontent.com/83608987/169150992-c59400aa-d899-4d47-9991-41263ce5fa15.JPG)
